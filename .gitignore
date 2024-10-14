@@ -1,0 +1,14 @@
+.idea/
+venv/
+env/
+node_modules/
+*.log
+*.tmp
+*.temp
+config.py
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store       
+Thumbs.db       
